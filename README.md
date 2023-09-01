@@ -1,4 +1,4 @@
-# Bodyfat Estimator
+# Bodyfat Estimation
 
 This repository describes my approche to predict bodyfat percentage with a regression model.
 
